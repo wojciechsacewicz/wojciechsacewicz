@@ -1,16 +1,16 @@
-## Hi there 👋
+### hey, i'm Wojciech! :)
 
-<!--
-**wojciechsacewicz/wojciechsacewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Native Developer Intern @ IDEGO**, CS student, and builder of small (and big) tools that make annoying things disappear.
 
-Here are some ideas to get you started:
+Currently focused on:
+ * staying current with AI coding tools and developer workflows
+ * building practical automations with LLMs
+ * exploring agents and AI-native software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+        _../|_
+      ='__   _~-.
+           \'  ~-`\._
+                 |/~`
+   .    .    .    .    .
+_.`(._.`(._.`(._.`(._.`(._
