@@ -6,7 +6,7 @@ Currently focused on:
  * staying current with AI coding tools and developer workflows
  * building practical automations with LLMs
  * exploring agents and AI-native software development
----
+
 ```text
         _../|_
       ='__   _~-.
