@@ -4,7 +4,7 @@
 
 **AI-native developer @ IDEGO**
 
-CS student building software with agents, LLMs, and an unreasonable amount of automation.
+CS student building software with AI agents.
 
 I like making annoying things disappear.
 
