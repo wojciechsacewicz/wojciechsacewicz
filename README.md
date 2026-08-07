@@ -22,31 +22,24 @@ I like making annoying things disappear.
 
 ```text
 agents          → giving software more agency
-automation      → deleting repetitive work
 llms            → putting intelligence into boring systems
 full-stack      → shipping the whole thing
 dev tooling     → making myself faster tomorrow than today
 ```
 
-A lot of my time goes into testing new coding agents, workflows and tools — then figuring out which ones actually improve engineering and which ones just burn tokens.
+A lot of my time goes into testing new coding agents, workflows and tools - then figuring out which ones actually improve engineering and which ones just burn tokens.
 
-### things i build
+### things i built
 
 **[llmpolska](https://llmpolska.pl)** — AI, web and experiments around building better software & businesses  
 **Veldia** — scheduling and time-tracking software  
 **random tools** — usually created because doing something manually annoyed me twice
 
-### currently
-
-```text
-building  →  measuring  →  automating  →  deleting boring work
-     ↑                                      ↓
-     └──────────── repeat ──────────────────┘
-```
+---
 
 I care more about **shipping useful software** than being loyal to a particular stack.
 
-If the problem is interesting, I'll figure out the tools.
+If the problem is interesting, I'll figure out the tools :)
 
 ```text
         _../|_
