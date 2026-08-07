@@ -1,6 +1,6 @@
 <img align="left" width="180" src="./assets/blob.gif">
 
-### hey, i'm Wojciech! :)
+### hey, i'm Wojciech [**Sacewicz**](https://sacewi.cz)! :)
 
 **AI-native developer @ IDEGO**
 
@@ -16,7 +16,7 @@ I like making annoying things disappear.
 🛠️ developer tooling  
 🧠 practical LLM automations
 
-[**sacewi.cz**](https://sacewi.cz) -> Check out my portfolio website!
+### you should check out my portfolio website → [**sacewi.cz**](https://sacewi.cz) :)
 
 <br>
 
@@ -35,9 +35,18 @@ A lot of my time goes into testing new coding agents, workflows and tools - then
 
 ### things i'm building
 
-**Main focus right now:** [**llmpolska.pl**](https://llmpolska.pl) — building modern websites for Polish businesses, without the usual agency bullshit.
-**[Veldia](https://veldia.pl)** — scheduling and time-tracking web app for local convenience stores  
-**random tools** — usually created because doing something manually annoyed me twice
+**→ [llmpolska.pl](https://llmpolska.pl)**  
+Main focus right now — building modern websites for Polish businesses, without the usual agency bullshit.
+
+**→ [Veldia](https://veldia.pl)**  
+Scheduling and time-tracking web app for local convenience stores.
+
+**→ random tools**  
+Usually created because doing something manually annoyed me twice.
+
+<br>
+
+---
 
 <br>
 
