@@ -8,14 +8,15 @@ CS student building software with agents, LLMs, and an unreasonable amount of au
 
 I like making annoying things disappear.
 
+<br>
+
 ⚡ AI-native software development  
 🤖 agents & coding workflows  
 🛠️ developer tooling  
 🧠 practical LLM automations
 
-[**sacewi.cz**](https://sacewi.cz)
+[**sacewi.cz**](https://sacewi.cz) -> Check out my portfolio website!
 
-<br>
 <br>
 
 ### what i'm into
@@ -28,14 +29,14 @@ dev tooling     → making myself faster tomorrow than today
 ```
 
 A lot of my time goes into testing new coding agents, workflows and tools - then figuring out which ones actually improve engineering and which ones just burn tokens.
-
+<br>
 ### things i built
 
 **[llmpolska](https://llmpolska.pl)** — AI, web and experiments around building better software & businesses  
 **Veldia** — scheduling and time-tracking software  
 **random tools** — usually created because doing something manually annoyed me twice
 
----
+<br>
 
 I care more about **shipping useful software** than being loyal to a particular stack.
 
