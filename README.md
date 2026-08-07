@@ -33,9 +33,9 @@ A lot of my time goes into testing new coding agents, workflows and tools - then
 
 <br>
 
-### things i built
+### things i'm building
 
-**Currently focused on:** **[llmpolska](https://llmpolska.pl)** — AI, web and experiments around building better software & businesses 
+**Main focus right now:** [**llmpolska.pl**](https://llmpolska.pl) — building modern websites for Polish businesses, without the usual agency bullshit.
 **[Veldia](https://veldia.pl)** — scheduling and time-tracking web app for local convenience stores  
 **random tools** — usually created because doing something manually annoyed me twice
 
